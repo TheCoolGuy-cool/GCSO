@@ -1,6 +1,3 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
-
 HEY GUYS! 
 WHAT'S UP?
 
